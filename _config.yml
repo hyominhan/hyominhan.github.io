@@ -1,0 +1,15 @@
+title: Hyomin Han
+logo: /assets/img/hyomin-torso.jpeg
+email: 
+description: HCI
+show_downloads: false
+google_analytics: 
+# theme: jekyll-theme-minimalist
+color-scheme: auto
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+
+remote_theme: BDHU/minimalist
