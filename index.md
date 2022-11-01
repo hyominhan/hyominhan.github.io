@@ -9,6 +9,7 @@ I am a prospective PhD applicant for Fall 2023.
 <a href="https://zoom.us/meeting/register/tJAsdOutpzorHNEomJvBD2Pz1ltbU_kHsUlj" target="_blank">**click here**</a> to join my online lecture on understanding the Korean culture and the KPOP industry @ <a href="https://www.kyushu-u.ac.jp/en/" target="_blank">Kyushu University</a>!
 
 ## News
+
 | Nov 2022  | 👩‍🏫 Thrilled to give my first lecture on understanding the Korean culture and the KPOP industry @ Kyushu University!|
 | Nov 2022  | ✈️ Trip to Chicagoland & Bay Area! |
 | Oct 2022  | 🥳 One poster paper is accepted to GROUP '22/23 |
