@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am Hyomin Han. I am interested in Human-Computer Interaction, Design Research, Creativity Supporting Tools, and Accessibility.
+I am Hyomin Han. I am a part-time instructor at Kyushu University. I'm interested in Human-Computer Interaction, Design Research, Creativity Supporting Tools, and Accessibility.
 
 I am a prospective PhD applicant for Fall 2023.
 
