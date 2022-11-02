@@ -6,7 +6,7 @@ I am Hyomin Han. I am a part-time instructor at Kyushu University. I'm intereste
 
 I am a prospective PhD applicant for Fall 2023.
 
-<a href="https://zoom.us/meeting/register/tJAsdOutpzorHNEomJvBD2Pz1ltbU_kHsUlj" target="_blank">**click here**</a> to join my online lecture on understanding the Korean culture and the KPOP industry @ <a href="https://www.kyushu-u.ac.jp/en/" target="_blank">Kyushu University</a>!
+<a href="https://www.kyushu-u.ac.jp/ja/events/view/1330" target="_blank">**click here**</a> to join my online lecture on understanding the Korean culture and the KPOP industry @ <a href="https://www.kyushu-u.ac.jp/en/" target="_blank">Kyushu University</a>!
 
 ## News
 
