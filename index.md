@@ -2,18 +2,16 @@
 layout: default
 ---
 
-I am Hyomin Han. I'm interested in Human-Computer Interaction, Design Research, Creativity Supporting Tools, and Accessibility.
+I am Hyomin Han. My research interests are: Human-Computer Interaction, Learning Sciences, Design Research, Online Learning Experience, Embodied Movement, and Accessibility. I am interested in exploring how to design technology for improving online learning experiences in embodied movement (e.g., dance, yoga, fitness). 
 
 I am a prospective PhD applicant for Fall 2023.
 
-<a href="https://www.kyushu-u.ac.jp/ja/events/view/1330" target="_blank">**click here**</a> to join my online lecture on understanding the Korean culture and the KPOP industry @ <a href="https://www.kyushu-u.ac.jp/en/" target="_blank">Kyushu University</a>!
-
 ## News
 
-| Nov 2022  | 👩‍🏫 Thrilled to give my first lecture on understanding the Korean culture and the KPOP industry @ Kyushu University!|
+| Nov 2022  | 👩‍🏫 <a href="https://www.kyushu-u.ac.jp/ja/events/view/1330" target="_blank">Thank you for participating in my first lecture on understanding the Korean culture and the K-Pop industry @ Kyushu University!</a>|
 | Nov 2022  | ✈️ Trip to Chicagoland & Bay Area! |
 | Oct 2022  | 🥳 One poster paper is accepted to GROUP '22/23 |
-| Aug 2022  | 🥳 Yay! I got invited as a special lecturer at Kyushu University! I'll be having a lecture on Understanding the Korean Culture and the Korean Content Industry Through KPOP in November! |
+| Aug 2022  | 🥳 Yay! I got invited as a special lecturer at Kyushu University! I'll be having a lecture on Understanding the Korean Culture and the Korean Content Industry Through K-Pop in November! |
 | Aug 2022  | 🌏 Hello world! Finally opened my website. Excited to connect with you all! |
 
 ## Publications
