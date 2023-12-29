@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Hyomin Han"
-categories: facts
+categories: portfolio
 tags: [sample]
 image: cuba-2.jpg
 ---
