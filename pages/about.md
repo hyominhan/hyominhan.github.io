@@ -14,11 +14,11 @@ I am interested in exploring how to design technology for improving online learn
 
 <b>EDUCATION</b><br>
 Sep 2024-<br>
-Master’s in Education (Learning Sciences Concentration), Northwestern University<br>
+M.S. in Education (Learning Sciences Concentration), Northwestern University<br>
 Evanston, IL, United States<br><br>
 
 Feb 2016<br>
-Bachelor of Business Administration, Hanyang University<br>
+B.S. in Business Administration, Hanyang University<br>
 Seoul, Korea<br><br>
 
 <b>PUBLICATION</b><br>
@@ -36,4 +36,4 @@ Jul 2017<br>
 EXO’s Chanyeol pays a special tribute to Linkin Park’s Chester Bennington<br><br>
 
 <b>LANGUAGE</b><br>
-Korean, English, Japanese, Mandarin Chinese (.5)
+Korean, English, and Japanese
