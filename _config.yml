@@ -1,15 +1,12 @@
-title: Hyomin Han
-logo: /assets/img/hyomin-torso.jpeg
-email: 
-description: 
-show_downloads: false
-google_analytics: 
-# theme: jekyll-theme-minimalist
-color-scheme: auto
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
-  - jekyll-remote-theme
+# Build settings
 
-remote_theme: BDHU/minimalist
+port: 4000
+markdown:  kramdown
+permalink: /:title
+plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+
+title:		   "Portfolio Jekyll Theme"
+description: "Powered by Jekyll and GitHub Pages"
+author:      "Paul Le"

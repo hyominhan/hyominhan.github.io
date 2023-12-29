@@ -1,1 +1,14 @@
-<p><small>Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> &amp; <a href="https://www.bodunhu.com/minimalist/" target="_blank">Minimalist</a></small></p>
+<footer>
+  <div class="footer-wrap">
+    <div class="footer-tagline">
+      <p>{{ site.data.settings.footer }}</p>
+    </div>
+    <div class="social-media">
+      <nav>
+        {% for item in site.data.settings.social %}
+          <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+        {% endfor %}
+      </nav>
+    </div>
+  </div>
+</footer>
