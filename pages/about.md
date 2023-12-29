@@ -4,9 +4,9 @@ title: About
 permalink: /about
 ---
 
-👋 Hi, I’m Hyomin - a content marketer based in Seoul with 8 years of experience in the K-Pop industry. My focus area for the past few years has been content marketing, but I'm also skilled in service design.
+👋 Hi, I’m Hyomin - a content marketer based in Seoul with 8 years of experience in the K-Pop industry. My focus area for the past few years has been content marketing, but I'm also skilled in service design.<br><br>
 
-Ever since I first learned how to make advertising materials while designing an online dance class service for K-Pop enthusiasts, I have pursued marketing as a passion, and as a career. Check out my portfolio for more information on my other projects (including more marketing materials!), as well as some of my writing.
+Ever since I first learned how to make advertising materials while designing an online dance class service for K-Pop enthusiasts, I have pursued marketing as a passion, and as a career. Check out my portfolio for more information on my other projects (including more marketing materials!), as well as some of my writing.<br><br>
 
 <b>RESEARCH INTERESTS</b><br>
 Human-Computer Interaction, Learning Sciences, Design Research, Online Learning Experience, Embodied Movement, and Accessibility.
