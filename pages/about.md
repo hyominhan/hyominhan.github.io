@@ -27,11 +27,13 @@ Hyomin Han, Taewook Kim<br>
 GROUP 2022. | ACM DL | BibTeX | Poster<br><br>
 
 <b>TEACHING EXPERIENCE</b><br>
-Nov 2022  Understanding Korean Culture and the Korean Content Industry Through K-Pop<br>
+Nov 2022<br>
+Understanding Korean Culture and the Korean Content Industry Through K-Pop<br>
 Invited Lecturer, Kyushu University<br><br>
 
 <b>BIBILOGRAPHY</b><br>
-Jul 2017 EXO’s Chanyeol pays a special tribute to Linkin Park’s Chester Bennington<br><br>
+Jul 2017<br>
+EXO’s Chanyeol pays a special tribute to Linkin Park’s Chester Bennington<br><br>
 
 <b>LANGUAGE</b><br>
 Korean, English, Japanese, Mandarin Chinese (.5)
