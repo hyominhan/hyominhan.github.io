@@ -12,7 +12,6 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Hyomin Han"
 description:	       "I just live by the ABCs! Adventurous, Brave & Creative" ―The Secret Life of Walter Mitty"
-author:              "Hyomin Han"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
