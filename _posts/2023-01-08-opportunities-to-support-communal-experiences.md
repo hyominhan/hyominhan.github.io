@@ -2,7 +2,7 @@
 layout: post
 title: "Opportunities to Support Communal Experiences of Deaf and Hard-of-hearing People In Live Music Concerts"
 author: "Hyomin Han"
-categories: portfolio
+categories: publications
 tags: [documentation,sample]
 image: group_communal_poster-1.webp
 ---
