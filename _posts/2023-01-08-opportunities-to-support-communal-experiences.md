@@ -12,4 +12,4 @@ Please click the title to read the poster.
 
 Opportunities to Support Communal Experiences of Deaf and Hard-of-Hearing People in Live Popular Music Concerts
 Hyomin Han, Taewook Kim
-GROUP 2022. | [ACM DL](https://doi.org/10.1145/3565967.3570983) | [BibTeX](https://taewookkim.com/assets/GROUP_Concert_BibTex.txt) | [Poster](https://taewookkim.com/assets/GROUP_Communal_poster.pdf)</a>
+GROUP 2022. | [ACM DL](https://doi.org/10.1145/3565967.3570983) | [BibTeX](https://taewookkim.com/assets/GROUP_Concert_BibTex.txt) | [Poster](https://taewookkim.com/assets/GROUP_Communal_poster.pdf)
