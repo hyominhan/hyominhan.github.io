@@ -7,17 +7,18 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Linkin Park</title>
+				<title>Opportunities to Support Communal Experiences of Deaf and Hard-of-hearing People In Live Music Concerts</title>
 				
 					<dc:creator>Hyomin Han</dc:creator>
 				
 				
-					<description>&lt;p&gt;hihihi i love taewook The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.&lt;/p&gt;
+					<description>&lt;p&gt;Submitted my first poster to &lt;a href=&quot;https://group.acm.org/conferences/group22/&quot;&gt;GROUP 2022/23&lt;/a&gt;!
+Please click the title to read the poster.&lt;/p&gt;
 </description>
 				
-				<pubDate>Wed, 01 Nov 2023 00:00:00 +0900</pubDate>
-				<link>http://localhost:4000/BTS-Chicago</link>
-				<guid isPermaLink="true">http://localhost:4000/BTS-Chicago</guid>
+				<pubDate>Sun, 08 Jan 2023 00:00:00 +0900</pubDate>
+				<link>http://localhost:4000/opportunities-to-support-communal-experiences</link>
+				<guid isPermaLink="true">http://localhost:4000/opportunities-to-support-communal-experiences</guid>
 			</item>
 		
 			<item>
