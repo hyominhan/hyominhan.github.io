@@ -1,0 +1,38 @@
+project:
+  - title: Authors’ Values and Attitudes Towards AI-bridged Scalable Personalization of Creative Language Arts
+    image: chi2024_cla_paper.jpg
+    detail: >
+      <p>Generative AI has the potential to create a new form of interactive media: AI-bridged creative language arts (CLA), which bridge the author and audience by personalizing the author’s vision to the audience’s context and taste at scale. However, it is unclear what the authors’ values and attitudes would be regarding AI-bridged CLA. To identify these values and attitudes, we conducted an interview study with 18 authors across eight genres (e.g., poetry, comics) by presenting speculative but realistic AI-bridged CLA scenarios. We identified three benefits derived from the dynamics between author, artifact, and audience: those that 1) authors get from the process, 2) audiences get from the artifact, and 3) authors get from the audience. We found how AI-bridged CLA would either promote or reduce these benefits, along with authors’ concerns. We hope our investigation hints at how AI can provide intriguing experiences to CLA audiences while promoting authors’ values.</p>
+
+      <hr>
+
+      <p><b>[My role in this project]</b><br>Description</p>
+    tags:
+      - Research
+      - AI / NLP
+      - HCI
+      - Design
+      - Speculative design
+      - Creativity
+    description: >-
+      This research explores how authors of creative works feel about using AI to personalize their content for different audiences, based on interviews with creators across various genres, identifying potential benefits and concerns of this technology.
+    id: customized_design_card
+  - title: Opportunities to Support Communal Experiences of Deaf and Hard-of-Hearing People in Live Popular Music Concerts
+    image: group2023_concert_poster.jpg
+    paper: group2023_concert_poster.pdf
+    detail: >
+      <p>Working with <a href='https://taewookkim.com/'>Taewook Kim</a> at Northwestern, we interviewed five D/HH people to understand current challenges and technological demands for better communal experiences in live popular music concerts.</p>
+
+      <img src='site.baseurl/assets/images/project_detail/group2023_concert_poster.jpg' class='img-responsive' alt='Poster of our paper'>
+
+      <p style='text-align: center;'><b>Keyscreen of our system</b></p>
+
+      <hr>
+
+      <p><b>[My role in this project]</b><br>Leading the project</p>
+    tags:
+      - Research
+      - Interview
+    description: >-
+      This research investigates how Deaf and hard-of-hearing people experience communal activities at concerts and suggests using AR glasses to help them better participate in live concerts.
+    id: communal_concert

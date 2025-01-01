@@ -1,0 +1,9 @@
+project:
+  - title: "Authors' Values and Attitudes Towards AI-bridged Scalable Personalization of Creative Language Arts"
+    image: "chi2024_cla_paper.jpg"
+    venue: CHI '24
+    slug: chi2024_cla_paper
+  - title: "Opportunities to Support Communal Experiences of Deaf and Hard-of-Hearing People in Live Popular Music Concerts"
+    image: "group2023_concert_poster_cover.jpg"
+    venue: GROUP '23
+    slug: group2023_concert_poster

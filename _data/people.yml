@@ -1,0 +1,20 @@
+people:
+  - name: Hyomin Han
+    affiliation: Northwestern University
+    website: "https://hyominhan.github.io"
+    image: hyomin.jpg
+  - name: Taewook Kim
+    affiliation: Northwestern University
+    website: "https://taewookkim.com"
+    image: Taewook.jpg
+  - name: Eytan Adar
+    affiliation: University of Michigan
+    image: Eytan.jpg
+  - name: Matthew Kay
+    affiliation: Northwestern University
+    website: "https://www.mjskay.com/"
+    image: matthew.jpg
+  - name: John Chung
+    affiliation: Midjourney
+    website: "https://johnr0.github.io/"
+    image: john.jpg

@@ -1,0 +1,23 @@
+title: Hyomin Han
+author:
+  name: Hyomin Han
+  email: hyomin@u.northwestern.edu
+description: >
+  Master student at Northwestern University
+google_analytics_id:
+
+show_excerpts: false # set to true to show excerpts on the homepage
+permalink: /:title
+
+url: "https://donghoon.io" # the base hostname & protocol for your site
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-sitemap
+
+collections:
+  publication:
+    output: true
+
+theme: minima
